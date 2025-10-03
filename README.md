@@ -1,4 +1,4 @@
-# HydroRiverNet-Scripts
+# HydroRiverNet Scripts
 
 HydroRiverNet is a collection of scripts developed to process hydrological time series and apply Convolutional Neural Networks (CNNs) with subnetworks to river level prediction.  
 The scripts are focused on multi-station river monitoring and enable analysis of both **flood** and **drought** patterns in the Amazon Basin.
