@@ -23,8 +23,7 @@ The workflow is divided into two main stages:
   - Performs predictions for test datasets (e.g., 2021).  
   - Calculates error metrics:  
     - **MSE** – Mean Squared Error  
-    - **MAE** – Mean Absolute Error  
-    - **RMSE** – Root Mean Squared Error  
+    - **MAE** – Mean Absolute Error   
     - **R²** – Coefficient of Determination  
   - Prepares outputs for visualization (time series curves, scatter plots, uncertainty bands).  
 
